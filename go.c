@@ -34,8 +34,8 @@ int main()
 
 	while(1){
 		black_input(realboard);
-	printboard(9,9,realboard);
-	delay(100);
+		printboard(9,9,realboard);
+		delay(100);
 	}
     return 0;
 }
